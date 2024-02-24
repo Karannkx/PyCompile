@@ -30,9 +30,9 @@ KxObfuscate is a simple Python code obfuscator designed to encode Python scripts
 ## Example
 To obfuscate a Python script using KxObfuscate:
 
-```python
+```
 python main.py
-
+```
 
 ## License
 
