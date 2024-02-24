@@ -36,4 +36,4 @@ python main.py
 
 ## License
 
-This project is licensed under the ![MIT LICENSE](LICENSE).
+This project is licensed under the [MIT LICENSE](LICENSE).
