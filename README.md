@@ -32,3 +32,8 @@ To obfuscate a Python script using KxObfuscate:
 
 ```python
 python main.py
+
+
+## License
+
+This project is licensed under the MIT License.
